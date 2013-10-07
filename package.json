@@ -1,0 +1,23 @@
+{
+  "name": "css-capsule",
+  "version": "0.0.0",
+  "description": "CSS preprocessor with incapsulation",
+  "main": "lib/index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "pegjs": "~0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SevInf/css-capsule.git"
+  },
+  "author": "Sergey Tatarincev <sevinf@yandex-team.ru> (https://github.com/SevInf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SevInf/css-capsule/issues"
+  }
+}
